@@ -295,7 +295,7 @@ ul li:nth-child(5) {
   opacity: 0;
 }
 
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 1000px) {
   .start {
     position: absolute;
     top: 80%;
